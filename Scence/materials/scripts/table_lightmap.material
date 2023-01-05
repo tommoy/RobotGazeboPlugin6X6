@@ -1,0 +1,13 @@
+material MyScence/Snow1
+{
+  technique
+  {
+    pass
+    {
+      texture_unit
+      {
+        texture Snow1.png
+      }
+    }
+  }
+}
